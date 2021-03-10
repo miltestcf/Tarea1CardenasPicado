@@ -1,3 +1,4 @@
+# NOTA 100
 from Tarea1 import check_char
 from Tarea1 import caps_switch
 import pytest
